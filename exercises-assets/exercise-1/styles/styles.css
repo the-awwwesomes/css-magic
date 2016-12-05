@@ -33,6 +33,7 @@ h1.main {
 
 .product-image {
   border: 20px solid #000;
+  /* colors for background  #4c8fff, #c54fb0, #64ddd9 */
 }
 
 .product-image img {

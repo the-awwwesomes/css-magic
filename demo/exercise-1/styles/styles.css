@@ -43,9 +43,9 @@ h1.main {
   position: relative;
   background: linear-gradient(121deg, #4c8fff, #c54fb0, #64ddd9);
   background-size: 600% 600%;
-  -webkit-animation: AnimationName 15s ease infinite;
-  -moz-animation: AnimationName 15s ease infinite;
-  animation: AnimationName 15s ease infinite;
+  -webkit-animation: AnimationName 10s ease infinite;
+  -moz-animation: AnimationName 10s ease infinite;
+  animation: AnimationName 10s ease infinite;
   text-align: center;
   overflow: hidden;
 }
