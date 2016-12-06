@@ -1,9 +1,60 @@
-  body {
-      margin: 0;
-      font-family: 'Karla', sans-serif;
-  }
+body {
+	margin: 0;
+	font-family: 'Karla', sans-serif;
+	background: #eee;
+}
   
-  .clipped {
-      clip-path: circle(100px at 35px 35px);
-      -webkit-clip-path: circle(100px at 35px 35px);
-  }
+header, section {
+    width: 100%;
+	background-size: cover;
+    background-blend-mode: soft-light;
+    background-attachment: fixed;
+    position: relative;	
+}  
+
+a {
+	color: #b45eff;
+}
+
+p {
+	line-height: 160%;
+}
+
+h1 {
+    font-family: 'Prata', serif;
+    font-size: 50px;
+    color: #b45eff;
+    background: #fff;
+    display: inline-block;
+    padding: 5px 10px;
+    position: relative;
+}
+
+header {
+    height: 40vh;
+    background-color: #8428ff;
+   	background-position: 100px 600px;
+    background-image: url("../images/background.jpg");
+    -webkit-clip-path: polygon(0 0, 100% 0, 100% 48%, 0% 100%);
+    clip-path: polygon(0 0, 100% 0, 100% 48%, 0% 100%);
+}
+
+section {
+    height: 50vh;
+    background-color: #d25ce0;
+    background-image: url("../images/background2.jpg");
+    -webkit-clip-path: polygon(0 27%, 100% 10%, 100% 77%, 0 93%);
+	clip-path: polygon(0 27%, 100% 10%, 100% 77%, 0 93%);
+    top: -100px;
+}
+
+.container {
+    width: 60vw;
+    margin: 0 auto;
+    position: relative;
+    z-index: 10;
+	top: -100px;
+}
+
+
+
