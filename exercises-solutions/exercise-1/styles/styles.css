@@ -8,8 +8,9 @@ body {
   position: relative;
 }
 
-p, ul {
+p, ul, a  {
   line-height: 150%;
+  color: #000;
 }
 
 h1.main {

@@ -12,6 +12,10 @@
       background-size: cover;
   }
   
+  a {
+    color: #000;
+  }
+  
   h1 {
       color: #fff;
       margin: 0;

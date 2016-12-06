@@ -10,8 +10,9 @@ body {
   background: #ebebeb;
 }
 
-p {
-  line-height: 150%;
+p, a {
+    line-height: 150%;
+    color: #000;
 }
 
 h1 {

@@ -1,6 +1,11 @@
   body {
     margin: 0;
     font-family: 'Karla', sans-serif;
+    background: #f2e8ee;
+  }
+
+  a, h1, p {
+    color: #464646;     
   }
 
   header{
@@ -8,17 +13,15 @@
     height: 80vh;
     top: 0;
     left: auto;
-    background: url(../images/landscape2.jpg) center top no-repeat;
+    background: url("../images/landscape2.jpg") center top no-repeat;
     background-size: auto 100%;
-    /*position: fixed;*/
   }
 
   h1{
-    -webkit-mask: url(../images/landscape-mask2.png) center top no-repeat;
+    -webkit-mask: url("../images/landscape-mask2.png") center top no-repeat;
     -webkit-mask-size:  auto 100%;
     width: 100vw;
     height: 80vh;
-    color: #fff;
     margin: 0;
     font-size: 100px;
     letter-spacing: -0.03em;
@@ -49,7 +52,7 @@ header h3 {
   }
 
   article {
-    width: 65vw;
+    width: 60vw;
     margin: 50px auto;
     display: block;
   }

@@ -7,8 +7,9 @@ body {
   font-family: 'Karla', sans-serif;
 }
 
-p {
+p, a {
   line-height: 150%;
+  color: #000;
 }
 
 

@@ -1,17 +1,20 @@
-*, *::before, *::after {
-  box-sizing: border-box;
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
 }
 
 body {
-  margin: 0;
-  font-family: 'Karla', sans-serif;
-  position: relative;
-  margin: 0 20vw;
-  background: #ebebeb;
+    margin: 0;
+    font-family: 'Karla', sans-serif;
+    position: relative;
+    margin: 0 20vw;
+    background: #ebebeb;
 }
 
-p {
-  line-height: 150%;
+p, a {
+    line-height: 150%;
+    color: #000;
 }
 
 h1 {

@@ -1,0 +1,9 @@
+  body {
+      margin: 0;
+      font-family: 'Karla', sans-serif;
+  }
+  
+  .clipped {
+      clip-path: circle(100px at 35px 35px);
+      -webkit-clip-path: circle(100px at 35px 35px);
+  }
