@@ -3,7 +3,9 @@
 
 
 #### **Disclaimer** :loudspeaker:
-These snippets of code are our small experiment, so be prepared that some things may not be supported on your browser. Nevertheless, have fun! :D
+These snippets of code are our small experiment, so be prepared that some things may not be supported on your browser. Nevertheless, have fun! :D 
+You can always check [Can I Use](http://caniuse.com) website.
+Size of the package is 99MB - it's quite heavy :muscle:, because of the videos presenting the final results of the exercises. 
 
 ## Folder `demo` 
 You can find here examples and demo sites presenting CSS superpowers like: `background-blend-mode`, `clip-path`, `gradient`, `shape-outside` and `mask`.
