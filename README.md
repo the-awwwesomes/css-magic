@@ -5,10 +5,12 @@
 #### **Disclaimer** :loudspeaker:
 These snippets of code are our small experiment, so be prepared that some things may not be supported on your browser. Nevertheless, have fun! :D 
 You can always check [Can I Use](http://caniuse.com) website.
-Size of the package is 99MB - it's quite heavy :muscle:, because of the videos presenting the final results of the exercises. 
 
-## Folder `demo` 
+Size of the package is **99MB** - it's quite heavy :muscle:, because of the videos presenting the final results of the exercises. 
+
+## :package: Folder `demo` 
 You can find here examples and demo sites presenting CSS superpowers like: `background-blend-mode`, `clip-path`, `gradient`, `shape-outside` and `mask`.
+
 The best way is to simply run the files and dig into the code, to find out how some things were made.
 
 Please note:
@@ -17,11 +19,11 @@ Please note:
 How to run the files via localhost? You can try with [XAMPP](https://blog.udemy.com/xampp-tutorial/).
 If you face any problems or don't know how to proceed let us know - contact@theawwwesomes.org.
 
-## Folder `exercises-assets`
+## :package: Folder `exercises-assets`
 Let's do some magic! In this folder you can find necessary assets to build the magical elements. The basic website is already built for you, so you can focus on the pure fun :)
 In each folder you have screenshot of what should be achieved. 
 
-## Folder `exercises-solutions`
+## :package: Folder `exercises-solutions`
 If you finish everything, you can now compare your code to ours :) Please don't open this folder at the very beginning - it's better to dig into code and play with it on your own. 
 Have fun! :)
 
@@ -30,6 +32,7 @@ If you like it - let us now on [Twitter](http://twitter.com/the_awwwesomes) :D
 
 Best,
 **The Awwwesomes**
+
 Aga Naplocha [@aganaplocha](http://twitter.com/aganaplocha) & Marta Sztybor [@sztyborek](http://twitter.com/sztyborek)
 
 
