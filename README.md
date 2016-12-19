@@ -3,6 +3,8 @@
 
 
 #### **Disclaimer** :loudspeaker:
+Before you start, please spend this 5 boring minutes on reading our instruction :coffee:
+  
 These snippets of code are our small experiment, so be prepared that some things may not be supported on your browser. Nevertheless, have fun! :D 
 You can always check [Can I Use](http://caniuse.com) website.
 
@@ -16,6 +18,7 @@ The best way is to simply run the files and dig into the code, to find out how s
 Please note:
 - `exercise-2` does not work in Firefox, sorry for that. We're creating an alterative! :)
 - `exercise-3` works only when is run via **localhost**. Why? Because of the CORS (*Cross Origin Request Security*) protocol. In this exercise we use `shape-outside` property and used image must be CORS Compatible. [This article](http://hansmuller-webkit.blogspot.ie/2013/11/css-shapes-from-images.html) is very helpful to understand this issue. 
+
 How to run the files via localhost? You can try with [XAMPP](https://blog.udemy.com/xampp-tutorial/).
 If you face any problems or don't know how to proceed let us know - contact@theawwwesomes.org.
 
